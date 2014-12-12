@@ -1,5 +1,7 @@
 # underscore.dom [![Build Status](https://travis-ci.org/1000ch/underscore.dom.svg?branch=master)](https://travis-ci.org/1000ch/underscore.dom)
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/isoden/underscore.dom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## About
 
 This is plugin which provides API for DOM operation for underscore.js/lo-dash.js.
